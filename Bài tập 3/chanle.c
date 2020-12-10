@@ -9,7 +9,7 @@ int main() {
    {printf("%d la so chan",2 n);
       //hien thi n la so chan
    } else {
-      printf("%d la so le",2 n);
+      printf("%d la so le",1 n);
       //hien thi n la so le
       scanf("%d", &n);
       if (n !=0) {

@@ -2,7 +2,7 @@
 
 int main() {
   //khai bao bien a
-  int a ;
+  int a ;2
   // gan gia tri a
   printf (" nhap a = ");
   scanf("%d", &a);

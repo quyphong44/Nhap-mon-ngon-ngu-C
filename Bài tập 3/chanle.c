@@ -6,10 +6,10 @@ int main() {
    printf("nhap n=");
    scanf("%d", &n);
    if (n % 2 == 0) 
-   {printf("%d la so chan", n);
+   {printf("%d la so chan",2 n);
       //hien thi n la so chan
    } else {
-      printf("%d la so le", n);
+      printf("%d la so le",2 n);
       //hien thi n la so le
       scanf("%d", &n);
       if (n !=0) {
